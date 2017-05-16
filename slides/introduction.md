@@ -1,4 +1,4 @@
-## Who are you?
+## Who am I?
 
 Émile Bergeron, B. Inf.  
 <small>Web Developer, Ellipse Synergie</small>
