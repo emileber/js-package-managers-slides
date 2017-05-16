@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Package Managers: Featuring Yarn Bower",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "emileber",
+    "githubRepository": "js-package-managers-slides"
+  }
+}

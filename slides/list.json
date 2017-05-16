@@ -1,0 +1,18 @@
+[{
+        "filename": "index.html",
+        "attr": {
+            "data-background": "resources/action-movie.jpg"
+        }
+    },
+    "introduction.md",
+    "inline.md",
+    "external.md",
+    "cdn.md",
+    "package.md",
+    "package-manager.md",
+    "npm.md",
+    "bower.md",
+    "jspm.md",
+    "yarn.md",
+    "duo.md"
+]
