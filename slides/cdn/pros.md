@@ -6,4 +6,4 @@
     - Save Bandwidth
     - Higher availability
 - Different domains  
-  <small>Browsers limit the number of concurrent connections per domain.</small>
+  _Browsers limit the number of concurrent connections per domain_
