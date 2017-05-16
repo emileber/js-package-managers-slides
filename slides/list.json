@@ -1,0 +1,53 @@
+[{
+        "filename": "index.html",
+        "attr": {
+            "data-background": "resources/action-movie.jpg"
+        }
+    },
+    "introduction.md", [
+        "inline/inline.md",
+        "inline/pros.md",
+        "inline/cons.md"
+    ],
+    [
+        "external/external.md",
+        "external/pros.md",
+        "external/cons.md"
+    ],
+    [
+        "cdn/cdn.md",
+        "cdn/pros.md",
+        "cdn/cons.md"
+    ],
+    [
+        "package/package.md",
+        "package/package-manager.md"
+    ],
+    [
+        "npm/npm.md",
+        "npm/pros.md",
+        "npm/cons.md",
+        "npm/frontend-cons.md",
+        "npm/shrinkwrap.md"
+    ],
+        [
+        "duo/duo.md",
+        "duo/pros.md",
+        "duo/cons.md"
+    ],
+    [
+        "bower/bower.md",
+        "bower/pros.md",
+        "bower/cons.md"
+    ],
+    [
+        "jspm/jspm.md",
+        "jspm/pros.md",
+        "jspm/cons.md"
+    ],
+    [
+        "yarn/yarn.md",
+        "yarn/pros.md",
+        "yarn/cons.md"
+    ]
+]

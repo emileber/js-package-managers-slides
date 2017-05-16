@@ -1,0 +1,28 @@
+.reveal .movie-font {
+    text-shadow: 0px 0px 9px rgba(0, 0, 0, 1);
+    letter-spacing: -7px;
+}
+
+.reveal .movie-title {
+    transform: rotate3d(0, 1, -0.1, 16deg);
+}
+
+.reveal .movie-subtitle {
+    position: absolute;
+    right: 0;
+    bottom: -45px;
+}
+
+.reveal p code, .reveal li code {
+    background: rgba(255, 255, 255, 0.13);
+    padding: 0 0.15em;
+}
+
+/*.row {*/
+/*    display: table;*/
+/*    table-layout: fixed;*/
+/*}*/
+
+/*.row > .col {*/
+/*    display: table-cell;*/
+/*}*/
