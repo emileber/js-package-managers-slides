@@ -27,7 +27,13 @@
         "npm/npm.md",
         "npm/pros.md",
         "npm/cons.md",
+        "npm/frontend-cons.md",
         "npm/shrinkwrap.md"
+    ],
+        [
+        "duo/duo.md",
+        "duo/pros.md",
+        "duo/cons.md"
     ],
     [
         "bower/bower.md",
@@ -43,10 +49,5 @@
         "yarn/yarn.md",
         "yarn/pros.md",
         "yarn/cons.md"
-    ],
-    [
-        "duo/duo.md",
-        "duo/pros.md",
-        "duo/cons.md"
     ]
 ]

@@ -1,7 +1,8 @@
 ## Pros
 
-- No registry, uses Github by default
+- Largest front-end specific package registry
 - Modules are pre-built with frontend in mind
 - Works in parallel with NPM
-- Popular
+- Flat dependency tree (`bower_components/jquery`)
+- Manages non-JavaScript components
 - Keeps backend dependencies separated from frontend dependencies, different manifests, different directories
